@@ -1,0 +1,49 @@
+h1 {
+
+	color:red;
+	width: 100%;
+}
+
+body {
+	padding-top: 0px;
+	margin-top: 0px;
+	color : white;
+	background-color: black;
+	font: times new roman;
+	
+	
+}
+
+.sidebar {
+	margin-top: 0px;
+	float: left;
+	width: 20%;
+	height: 1001px;
+	background-color: green;
+
+}
+
+.topbar {
+	background-color: #9999FF;
+	height: 20%;
+}
+.content {
+	background-color:  #00FF00;
+	height: 80%;
+}
+.main {
+		width = 80%;
+		line-width: 200px;
+}
+button {
+	margin: 50px;
+}
+
+button:hover {
+	color : lightgray;
+
+}
+button:onhold{
+	color:red;
+}
+
